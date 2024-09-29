@@ -1,0 +1,41 @@
+# Dirsearch started Sun Sep 29 08:18:38 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://challenge01.root-me.org/web-serveur/ch6/phpbb/
+
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/%2e%2e;/test
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/admin/.config
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/admrev/.ftppass
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/admpar/.ftppass
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/bitrix/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/bitrix/.settings.bak
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/bitrix/.settings.php.bak
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/bitrix/.settings.php
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/clients.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/customers.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/data.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/database.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/db.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/db1.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/dump.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/ext/.deps
+301   162B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/install    -> REDIRECTS TO: http://challenge01.root-me.org/web-serveur/ch6/phpbb/install/
+200    12KB  http://challenge01.root-me.org/web-serveur/ch6/phpbb/install/
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/uploader/.actionScriptProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/uploader/.flexProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/varien/.actionScriptProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/uploader/.project
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/varien/.flexLibProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/uploader/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/varien/.project
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/lib/flex/varien/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/log.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/logs.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/mailer/.env
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/members.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/password.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/passwords.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/personal.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/private.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/resources/.arch-internal-preview.css
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/resources/sass/.sass-cache/
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/test.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/twitter/.env
+403   548B   http://challenge01.root-me.org/web-serveur/ch6/phpbb/users.sqlite
