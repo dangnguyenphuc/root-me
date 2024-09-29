@@ -1,0 +1,32 @@
+# Dirsearch started Sun Sep 29 05:44:44 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://challenge01.root-me.org/web-serveur/ch4/admin/
+
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/%2e%2e;/test
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/admin/.config
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/admpar/.ftppass
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/admrev/.ftppass
+301   162B   http://challenge01.root-me.org/web-serveur/ch4/admin/backup    -> REDIRECTS TO: http://challenge01.root-me.org/web-serveur/ch4/admin/backup/
+200    12KB  http://challenge01.root-me.org/web-serveur/ch4/admin/backup/
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/bitrix/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/bitrix/.settings.php
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/bitrix/.settings.bak
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/bitrix/.settings.php.bak
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/clients.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/customers.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/data.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/database.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/db.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/db1.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/dump.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/ext/.deps
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/uploader/.actionScriptProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/uploader/.flexProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/uploader/.project
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/uploader/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/varien/.project
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/varien/.flexLibProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/varien/.actionScriptProperties
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/lib/flex/varien/.settings
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/log.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/logs.sqlite
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/mailer/.env
+403   548B   http://challenge01.root-me.org/web-serveur/ch4/admin/members.sqlite
