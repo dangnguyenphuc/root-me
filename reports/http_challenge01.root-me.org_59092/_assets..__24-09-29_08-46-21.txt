@@ -1,0 +1,6 @@
+# Dirsearch started Sun Sep 29 08:47:49 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://challenge01.root-me.org:59092/assets../
+
+301   169B   http://challenge01.root-me.org:59092/assets../assets    -> REDIRECTS TO: http://challenge01.root-me.org:8000/assets../assets/
+200   167B   http://challenge01.root-me.org:59092/assets../assets/
+200    25B   http://challenge01.root-me.org:59092/assets../flag.txt
+301   169B   http://challenge01.root-me.org:59092/assets../static    -> REDIRECTS TO: http://challenge01.root-me.org:8000/assets../static/
