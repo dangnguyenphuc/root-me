@@ -1,7 +1,7 @@
 # Challenge18: CRLF
 
 ## Ref
-    + w3schools: https://www.w3schools.com/tags/ref\_urlencode.ASP
+    + w3schools: https://www.w3schools.com/tags/ref_urlencode.ASP
 
 ## Solution
 
